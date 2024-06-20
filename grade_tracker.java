@@ -1,8 +1,3 @@
-/*public class student {
-    public static void main(String[] args) {
-
-    }
-}*/
 import java.util.*;
 public class grade_tracker {
     public static void main(String[] args){
